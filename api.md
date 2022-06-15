@@ -1,9 +1,10 @@
 ---
-layout: home
-title: API Overview
+layout: page
+title: APIs
+nav_order: 2
+parent: Overview
 has_children: false
-nav_order: 3
-description: API overview
+description: The Language Detection block
 ---
 
 # Watson NLP APIs at a glance
