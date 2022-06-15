@@ -1,8 +1,9 @@
 ---
-layout: page
-title: Overview
+layout: home
+title: Watson NLP Home
+has_children: true
 nav_order: 1
-has_children: True
+description: Watson NLP documentation home page
 ---
 
 ## Welcome to GitHub Pages
